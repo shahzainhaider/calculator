@@ -21,9 +21,5 @@ for(let btn of btns){
             string += e.target.innerText
             display.value= string
             }
-
-
-        // console.log(e.target.innerText)
-
     })
 }
